@@ -2,7 +2,7 @@
 
 A comprehensive full-stack financial analytics platform built with the MERN stack (MongoDB, Express, React, Node.js) to visualize and analyze key financial metrics, KPIs, and business data.
 
-![FinPro Dashboard]([https://raw.githubusercontent.com/username/FinPro/main/screenshot.png](https://github.com/akhil1198/FinProject/blob/main/ss.png))
+![FinPro Dashboard](https://github.com/akhil1198/FinProject/blob/main/ss.png)
 
 ## 📊 Features
 
